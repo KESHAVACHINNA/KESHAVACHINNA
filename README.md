@@ -28,7 +28,7 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on **Image Caption Generator**, **Movie Recommendation System**
+- 🔭 I’m currently working on **Image Caption Generator**, **Deep learning projects**
 - 🌱 I’m learning **Deep Learning**, **Transformers**, **Model Optimization**
 - 💬 Ask me about: `Machine Learning`, `Data Science`, `Python`, `NLP`, `Flask`, `Deployment`
 - 👨‍💻 Portfolio: [View My Projects](https://688b1b14f000d7f4daa44409--radiant-pasca-702cd5.netlify.app/)
