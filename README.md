@@ -4,11 +4,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Channakeshava Reddy</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | 🧠 ML Enthusiast | 🇮🇳 Based in India</h3>
+<h3 align="center"> Aspiring Data Scientist |  ML Enthusiast | 🇮🇳 Based in India</h3>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer+%7C+NLP+Explorer;Building+Models+that+Matter;Always+Learning%2C+Always+Coding." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Data%20Scientist%20%7C%20ML%20Engineer;Turning%20Ideas%20Into%20Intelligent%20%26%20Creative%20Solutions;Learning.%20Building.%20Transforming." alt="Typing SVG" />
+
+
+
+
 </p>
 
 <!-- Contact and Social Links -->
@@ -28,25 +32,24 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on **Image Caption Generator**, **Deep learning projects**
-- 🌱 I’m learning **Deep Learning**, **Transformers**, **Model Optimization**
-- 💬 Ask me about: `Machine Learning`, `Data Science`, `Python`, `NLP`, `Flask`, `Deployment`
-- 👨‍💻 Portfolio: [View My Projects](https://688b1b14f000d7f4daa44409--radiant-pasca-702cd5.netlify.app/)
-- 📫 Reach me at: **channakeshavareddywork@gmail.com**
+-  I’m currently working on **Image Caption Generator**, **Deep learning projects**
+-  I’m learning **Deep Learning**, **Transformers**, **Model Optimization**
+-  Ask me about: `Machine Learning`, `Data Science`, `Python`, `NLP`, `Flask`, `Deployment`
+-  Portfolio: [View My Projects](https://688b1b14f000d7f4daa44409--radiant-pasca-702cd5.netlify.app/)
+-  Reach me at: **channakeshavareddywork@gmail.com**
 
 ---
 
-### 🚀 What I Bring to the Table
+###  What I Bring to the Table
 
-- 🔹 Passion for building real-world ML models  
-- 🔹 Strong foundation in statistics & data visualization  
-- 🔹 Skilled in Flask & Streamlit for deploying data apps  
-- 🔹 Always curious – I keep learning, building, and improving  
-- 🔹 Capable of converting raw data into actionable insights
-
+- Passion for creating real-world ML solutions that deliver measurable impact 
+-  Strong foundation in statistics & data visualization to uncover and communicate insights
+-  Proficiency in Flask & Streamlit for building and deploying interactive data applications 
+-  Relentless curiosity — constantly learning, experimenting, and refining my skills
+-  Ability to turn raw data into actionable, business-ready insights
 ---
 
-### 🧠 Core Skills
+###  Core Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -60,23 +63,25 @@
 
 ### 🛠️ Tools & Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+<p align="middle">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" title="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" title="Scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" title="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" title="PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" title="Flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" title="Streamlit" />
+
 </p>
 
 ---
 
-### 🔥 GitHub Highlights
+###  GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavachinna&layout=compact&theme=tokyonight" height="150" />
@@ -102,5 +107,5 @@ If you're hiring, collaborating, or just want to talk data — reach out! I'm al
 
 ---
 
-> ⭐ _"Keep coding. Keep learning. Keep building."_  
+> ⭐ _""Think it. Build it. Launch it into the real world."_  
 > – **Channakeshava Reddy**
