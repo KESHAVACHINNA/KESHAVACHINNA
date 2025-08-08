@@ -31,7 +31,7 @@
 - 🔭 I’m currently working on **Image Caption Generator**, **Movie Recommendation System**
 - 🌱 I’m learning **Deep Learning**, **Transformers**, **Model Optimization**
 - 💬 Ask me about: `Machine Learning`, `Data Science`, `Python`, `NLP`, `Flask`, `Deployment`
-- 👨‍💻 Portfolio: [View My Projects](https://6845244f700eac0ce7ad5483--singular-palmier-ec5f33.netlify.app/)
+- 👨‍💻 Portfolio: [View My Projects](https://688b1b14f000d7f4daa44409--radiant-pasca-702cd5.netlify.app/)
 - 📫 Reach me at: **channakeshavareddywork@gmail.com**
 
 ---
