@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Channakeshava Reddy</h1>
-<h3 align="center"> Aspiring Data Scientist |  ML Enthusiast | 🇮🇳 Based in India</h3>
+<h3 align="center"> Aspiring Data Scientist |  ML Enthusiast |Data Engineer | 🇮🇳 Based in India</h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -35,7 +35,7 @@
 -  I’m currently working on **Image Caption Generator**, **Deep learning projects**
 -  I’m learning **Deep Learning**, **Transformers**, **Model Optimization**
 -  Ask me about: `Machine Learning`, `Data Science`, `Python`, `NLP`, `Flask`, `Deployment`
--  Portfolio: [View My Projects](https://688b1b14f000d7f4daa44409--radiant-pasca-702cd5.netlify.app/)
+-  Portfolio: [View My Projects](https://stupendous-marigold-a41e1f.netlify.app/)
 -  Reach me at: **channakeshavareddywork@gmail.com**
 
 ---
