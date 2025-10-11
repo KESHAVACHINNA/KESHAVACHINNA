@@ -35,7 +35,7 @@
 -  I’m currently working on **Image Caption Generator**, **Deep learning projects**
 -  I’m learning **Deep Learning**, **Transformers**, **Model Optimization**
 -  Ask me about: `Machine Learning`, `Data Science`, `Python`, `NLP`, `Flask`, `Deployment`
--  Portfolio: [View My Projects](https://stupendous-marigold-a41e1f.netlify.app/)
+-  Portfolio: [View My Portfolio](https://stupendous-marigold-a41e1f.netlify.app/)
 -  Reach me at: **channakeshavareddywork@gmail.com**
 
 ---
