@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Channakeshava Reddy</h1>
-<h3 align="center"> Aspiring Data Scientist |  ML Enthusiast |Data Engineer | 🇮🇳 Based in India</h3>
+<h3 align="center">  Data Science |  ML Enthusiast |Project management| 🇮🇳 Based in India</h3>
 
 <!-- Typing animation -->
 <p align="center">
